@@ -59,8 +59,8 @@ plugins             :
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-theme               : jekyll-theme-leaf
-
+#theme               : jekyll-theme-leaf
+remote_theme:  supun-io/jekyll-theme-leaf 
 # Conversion
 page_excerpts       : true
 excerpt_separator   : "<!--more-->"
