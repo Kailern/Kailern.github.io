@@ -3,9 +3,30 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "" # the name of your site, e.g. ACME Corp.
 iconURL: /assets/img/logo.png
 
+
+## Default
+lsi: false
+safe: true
+source: .
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+  auto_ids          : true
+  entity_output     : as_char
+  toc_levels        : [1, 2, 3, 4, 5, 6]
+  smart_quotes      : lsquo,rsquo,ldquo,rdquo
+  input             : GFM
+  hard_wrap         : false
+  footnote_nr       : 1
+  show_warnings     : false
+
 # Where things are
-source              : .
-destination         : ./_site
+#source              : .
+#destination         : ./_site
 #collections_dir     : .
 plugins_dir         : _plugins # takes an array of strings and loads plugins in that order
 layouts_dir         : _layouts
@@ -41,19 +62,16 @@ plugins             :
 theme               : jekyll-theme-leaf
 
 # Conversion
-markdown            : kramdown
-highlighter         : rouge
-lsi                 : false
 page_excerpts       : true
 excerpt_separator   : "<!--more-->"
 incremental         : false
 
 # Serving
-detach              : false
-port                : 4000
-host                : 192.168.4.100
-baseurl             : "" # does not include hostname
-show_dir_listing    : false
+#detach              : false
+#port                : 4000
+#host                : 192.168.4.100
+#baseurl             : "" # does not include hostname
+#show_dir_listing    : false
 
 # Outputting
 permalink           : date
@@ -68,15 +86,4 @@ liquid:
   error_mode        : warn
   strict_filters    : false
   strict_variables  : false
-
-# Markdown Processors
-kramdown:
-  auto_ids          : true
-  entity_output     : as_char
-  toc_levels        : [1, 2, 3, 4, 5, 6]
-  smart_quotes      : lsquo,rsquo,ldquo,rdquo
-  input             : GFM
-  hard_wrap         : false
-  footnote_nr       : 1
-  show_warnings     : false
 
