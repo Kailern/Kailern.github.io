@@ -6,7 +6,7 @@ title:  'Network - Back To The Base - Introduction au modèle OSI'
 # Introduction
 Dans les réseaux informatiques, les différents noeuds connectés à un même réseau ont besoin de communiquer entre eux. Pour cela, des standards ont été définis. Cela permet de communiquer de façon normée. Cependant, la façon dont a été implémenté ces protocoles fonctionne par couches. Chacune de ces couches possède des protocoles différents pour fonctionner. 
 Dans cet article, nous allons voir ces différentes couches, comments elles fonctionnent entre elles, et des exemples de protocoles et de cas d'usage pour chacune d'entre elles.
-
+<!--more-->
 # Le modèle
 Le modèle OSI a été défini par une norme ISO dans la fin des années 1970, et il est toujours utilisé de nos jours malgré les évolutions technologiques qui ont eu lieu depuis.
 Il se décompose en 7 couches :

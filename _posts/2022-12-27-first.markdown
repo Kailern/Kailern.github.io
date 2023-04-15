@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  'Welcome to Jekyll!'
+title:  'Premier Post'
 ---
 
-# Welcome
-
-**Hello world**, this is my first Jekyll blog post.
+# Hello
+Ceci est le premier post de mon blog. Il pourra traiter de différents sujets que j'aime.
+J'essaierai de les trier au mieux afin que ce ne soit pas trop le bazar ;-)
 <!--more-->
-
-I hope you like it!
