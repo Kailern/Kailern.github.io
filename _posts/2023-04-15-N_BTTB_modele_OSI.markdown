@@ -1,6 +1,10 @@
 ---
-layout: post
+layout: default
+categories: Network
+date:   2023-04-15
+published:   2023-04-15
 title:  'Network - Back To The Base - Introduction au modèle OSI'
+tags: [ Network, OSI ]
 ---
 
 # Introduction

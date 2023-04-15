@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-07T22:05:36+01:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/2022/12/27/first.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-12-27T00:00:00+01:00</published><updated>2022-12-27T00:00:00+01:00</updated><id>http://localhost:4000/2022/12/27/first</id><content type="html" xml:base="http://localhost:4000/2022/12/27/first.html"><![CDATA[<h1 id="welcome">Welcome</h1>
-
-<p><strong>Hello world</strong>, this is my first Jekyll blog post.
-<!--more--></p>
-
-<p>I hope you like it!</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Welcome Hello world, this is my first Jekyll blog post.]]></summary></entry></feed>
