@@ -1,0 +1,33 @@
+# Change 'comments' to true for Disqus comments
+#disqus:
+#  comments: true
+#  disqus_shortname: ''
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: ''
+
+menu: 
+  - name: Featured Projects
+    submenu:
+      - name: BTTB
+        link: /projects/BTTB
+      - name: DD
+        link: /projects/DD
+  - name: Posts
+    link: /
+  - name: Tags
+    link: /tags
+  - name: About
+    link: /about
+  - name: Follow me
+    submenu:
+      - name: GitHub
+        icon: github
+        link: http://github.com/Kailern
+      - name: LinkedIn
+        icon: linkedin-square
+        link: https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-noret-b1ba9965/
+      #- name: Twitter
+      # icon: twitter
+      #  link: https://twitter.com/koint
+    

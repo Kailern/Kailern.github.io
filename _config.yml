@@ -61,7 +61,7 @@ plugins             :
   - jekyll-seo-tag
 #theme               : jekyll-theme-leaf
 #remote_theme:  supun-io/jekyll-theme-leaf 
-remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: alainpham/alainpham.github.io
 # Conversion
 page_excerpts       : true
 excerpt_separator   : "<!--more-->"
