@@ -1,6 +1,6 @@
 ---
 title: Contact
-layout: page
+layout: default
 ---
 
 For any IT stuff, you can contact me on LinkedIn : https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-noret-b1ba9965/
