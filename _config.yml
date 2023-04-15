@@ -60,7 +60,8 @@ plugins             :
   - jekyll-sitemap
   - jekyll-seo-tag
 #theme               : jekyll-theme-leaf
-remote_theme:  supun-io/jekyll-theme-leaf 
+#remote_theme:  supun-io/jekyll-theme-leaf 
+remote_theme: cotes2020/jekyll-theme-chirpy
 # Conversion
 page_excerpts       : true
 excerpt_separator   : "<!--more-->"
