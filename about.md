@@ -5,5 +5,7 @@ layout: page
 
 Hello !
 
-This site is about stuff I like.
+I'm Frédéric Noret, a Network Security Engineer. I'm expert on F5 Solution Expert, and I also use some other solution like PaloAlto, Fortinet, Netskope and Splunk.
+
+This blog is about stuff I like.
 It may have some articles about video games, IT stuff, or whatever I feel like sharing.
